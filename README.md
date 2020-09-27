@@ -1,5 +1,5 @@
-### Hi there, I'm Deepti Sharma 👋
-**It's time for something new! From being an experienced Learning & Developement Consultant I am embarking on a career changing journey as a 'Full-Stack Developer'.**
+### Hi there, I'm Deepti 👋
+**It's time for something new! So, from being an experienced Learning & Developement Consultant I am embarking on a career changing journey as a 'Full-Stack Developer'.**
 
 * 🔭 I’m currently working on a full stack applications
 * 🌱 I’m currently learning React & UX
