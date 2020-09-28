@@ -5,7 +5,7 @@
 * 🌱 I’m currently learning React & UX
 * 👯 I’m looking to collaborate on full-stack projects and UX
 * 💬 Ask me about HTML5/CSS3/Bootstrap4, Javascript, MySQL, NodeJS
-* 📫 You can reach me on [LinkedIn](https://linkedin.com/in/deeptishrma) [Gmail](https://deepti.sharma@gmail.com)
+* 📫 You can reach me on [LinkedIn](https://linkedin.com/in/deeptishrma) [deepti.sharma@gmail.com]
 * ⚡ When not coding I like to travel, read fiction and do yoga
 
 ### Languages and Tools:
