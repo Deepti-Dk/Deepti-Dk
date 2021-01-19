@@ -1,8 +1,7 @@
 ### Hi there, I'm Deepti 👋
 **It's time for something new! So, from being an experienced Learning & Developement Consultant I am embarking on a career changing journey as a 'Full-Stack Developer'.**
 
-* 🔭 I’m currently working on full stack applications
-* 🌱 I’m currently learning React & UX
+* 🌱 I’m currently pursuing ASP.NET MVC Web Development from Itucation
 * 👯 I’m looking to collaborate on full-stack projects and UX
 * 💬 Ask me about HTML5/CSS3/Bootstrap4, Javascript, MySQL, NodeJS
 * 📫 You can reach me on [LinkedIn](https://linkedin.com/in/deeptishrma) [Gmail](https://deepti.sharma@gmail.com)
